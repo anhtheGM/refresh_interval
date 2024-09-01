@@ -36,7 +36,7 @@ blueprint:
           custom_value: false
           multiple: false
           sort: false
-  source_url: KhangMinh
+  source_url: https://github.com/anhtheGM/refresh_interval/blob/main/refresh_interval.yaml
 variables:
   luxpower_device_var: !input luxpower_device
 trigger:
