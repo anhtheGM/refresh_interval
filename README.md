@@ -36,7 +36,7 @@ blueprint:
           custom_value: false
           multiple: false
           sort: false
-  source_url: https://hoangson.io.vn/hass/refresh_interval.yaml
+  source_url: Khangminh
 variables:
   luxpower_device_var: !input luxpower_device
 trigger:
